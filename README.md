@@ -7,7 +7,7 @@ I do know that versions of this do exist, but I wanted to make one muyself that'
 
 # Roadmap
 
-- [x] Create the first working 'prototype'
+- [x] ~~Create the first working 'prototype'~~
 - [ ] Allow for complete user selection on as many options as possible, colours, custom logos etc.
 - [ ] Use a GUI framework to create a desktop app (Maybe tkinter?)
 - [ ] Make a web version
