@@ -25,4 +25,5 @@ The tauri app should make cross platform fairly simple so... hopefully, but I pl
 If you really want me to make a native mac app, I don't have access to a mac, so if this little project is what you're gunning for, try it yourself! or I have a ko-fi link below if you'd like to support me starting to develop on mac.
 
 Fuel my coffee needs or donate towards my dev journey! (All donations are 100% optional and will NEVER be required)
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S31EC98I)
